@@ -1,0 +1,11 @@
+Model Information:
+* title:	Skibidi Toilet
+* source:	https://sketchfab.com/3d-models/skibidi-toilet-c86458ac96f64bb7bdddba8b40daa29a
+* author:	Titan speaker man (https://sketchfab.com/tsmupgraded)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Skibidi Toilet" (https://sketchfab.com/3d-models/skibidi-toilet-c86458ac96f64bb7bdddba8b40daa29a) by Titan speaker man (https://sketchfab.com/tsmupgraded) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
