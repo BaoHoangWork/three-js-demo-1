@@ -47,7 +47,7 @@ spotLight.castShadow = true;
 spotLight.shadow.bias = -0.0001;
 scene.add(spotLight);
 
-const loader = new GLTFLoader().setPath('public/millennium_falcon/');
+const loader = new GLTFLoader();
 loader.load('scene.gltf', (gltf) => {
   console.log('loading model');
   const mesh = gltf.scene;
